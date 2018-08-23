@@ -1,0 +1,110 @@
+*{
+box-sizing: border-box;
+}
+body{
+
+	height: 100%;
+	width: :100%;
+	background-color: #eee;
+}
+.navbar{
+
+	background-color: white;
+}
+.zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1); 
+
+}
+.navbar-default .navbar-collapse {
+	background-color: #e7eaf300;
+    box-shadow: 0 0 7px 2px black;
+}
+
+.navbar-default .navbar-nav li a {
+	color: black;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active{
+	color: #fff;
+	 -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+	background-color: black;
+}
+#fixed{
+	top:0px;
+	left: 0px;
+	display: table;
+	background-image: url('/images/mountains.jpeg');
+	background-size: cover;
+	background-position: center center;
+
+	height: 700px;
+	width: 100%;
+	position: relative;
+
+}
+.landing-text{
+	font-family: Courier, monospace;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.landing-text h1{
+	font-size: 400%;
+	font-weight: 500;
+  -webkit-text-stroke: 1px black;
+   color: white;
+   text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+
+
+}
+.landing-text h2{
+
+	font-size: 250%;
+	font-weight: 300%;
+
+
+}
+.padding{
+	margin-top:50px;
+}
+.padding{
+	margin-bottom: px;
+}
+#footer{
+background-image: url('/images/bg.jpg');
+margin-top: 10px;
+	width: 100%;
+	background-color: #23415C;
+	background-size: cover;
+	padding: 10px;
+	color: black;
+
+}
+.fa{
+	
+	padding: 15px;
+	font-size: 25px;
+	color:#FFF; 
+}
+.fa:hover{
+	color: black;
+	text-decoration: none;
+}
+.icon{
+	max-width:200px;
+}
+.navbar-brand{
+
+    padding-left: 74px;
+    padding-bottom: 37px;
+
+}

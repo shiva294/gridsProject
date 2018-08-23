@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CAT | Famous By Name</title>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css" />
+	<style>
+	
+	<!-- body{ -->
+	<!-- background-color: red; -->
+<!-- } -->
+
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" >
+  <div class="container-fulid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#"><img src="images\CAT2.png" alt="logo" width="80px;"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
+        <li class=""><a href="#" class="fa fa-home" > &ensp; Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#" class="fa fa-home" > &ensp;>Projects <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#home">Page 1-1</a></li>
+            <li><a href="#">Page 1-2</a></li>
+            <li><a href="#">Page 1-3</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="fa fa-home" > &ensp; Career</a></li>
+        <li><a href="#"class="fa fa-phone" > </a></li>
+      </ul>
+     
+    </div>
+  </div>
+</nav>
+
+<div id="fixed">	
+	
+
+	<div class="landing-text"> 
+		<h1> </h1>
+		<h2> We Don't Wait For Things To Happen, We Make Them Haappen</h2><br>
+		<img src="images\CAT2.png">
+	</div>
+
+</div>
+
+<div class="padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 text-center">
+				
+				<img src="images\bootstrap.png"  class="img-responsive" alt="banner1" width="">
+			</div>
+
+			<div class="col-md-6 text-center text-center">
+				
+				<h2>Digital modernization gives traditional financial institutions more than a second chance.</h2>
+				<p class="lead">A smart enterprise-wide approach positions them to deepen customer satisfaction and loyalty, drive long-term relationships and increase profitability in a shifting regulatory landscape.</p>
+			</div>
+
+		</div>
+	</div>
+
+<div class="padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 col-sm-6 col-xs-12">
+				<h3>Securing a Payment Processor Against Cyberattacks,defined by their organization. </h3>
+			</div>
+
+			<div class="col-md-3 col-sm-6 col-xs-12 img-center">
+				<img src="images\image2.png"  class="img-responsive" alt="banner2" width="400px">
+			</div>
+
+			<div class="col-md-3 col-sm-6 col-xs-12">
+				<h3>Transform the present. Power the future.
+Customer demands and expectations are evolving.</h3>
+
+			</div>
+
+			<div class="col-md-3 col-sm-6 col-xs-12">
+				<img src="images\image1.jpg" class="img-responsive" alt="banner2" width="400px">
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<div class="padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 text-center text-center">
+				
+				<h2>ENGAGE CONSUMERS AND DELIVER BETTER OUTCOMES</h2>
+				<p class="lead"> The digital economy is transforming the way payers, providers and health programs must operate. As a leader in healthcare technology, Cognizant has the solutions to help you meet the demands of today and prepare for what’s coming tomorrow. satisfaction and loyalty, drive long-term relationships and increase profitability in a shifting regulatory landscape.</p>
+			</div>
+
+			<div class="col-sm-6 text-center">
+				
+				<img src="images\image4.png"  alt="banner1" width="300px">
+			</div>
+
+		</div>
+	</div>
+
+<div class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4 text-center">
+				<h3>Contact us</h3>
+				<address> CKB Layout, Munnekollala, Marathahalli, 560037</address>
+			</div>
+
+			<div class="col-sm-4 text-center">
+				<h3>Connect</h3>
+				<a href="#" class="fa fa-facebook"></a>
+				<a href="#" class="fa fa-twitter"></a>
+				<a href="#" class="fa fa-youtube"></a>
+				<a href="#" class="fa fa-google"></a>
+
+
+			</div>
+
+			<div class="col-sm-4 text-center">
+				<h3>Brand Sponsor </h3>
+				
+				<div class="row">
+			
+						<img src="images/CAT2.jpg" width="100px" style="border: 1px solid black">&ensp;
+					
+						<img src="images/Rashi.png" alt="cat" width="100px" style="border: 1px solid white">
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+
+</div>
+ </body>
+ </html>
